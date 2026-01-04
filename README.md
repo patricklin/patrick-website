@@ -1,2 +1,0 @@
-# patrick-website
-personal website
